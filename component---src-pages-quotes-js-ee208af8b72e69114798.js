@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"5H7b":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),u=n("Bl7J"),r=n("vrFN");t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(r.a,{title:"Quotes"}),l.a.createElement("h1",null,"Quotes"))}}}]);
+//# sourceMappingURL=component---src-pages-quotes-js-ee208af8b72e69114798.js.map
